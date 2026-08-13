@@ -27,7 +27,7 @@ module openconfig-procmon {
 
   oc-ext:openconfig-version "0.5.0";
 
-  revision "2026-07-14" {
+  revision "2026-08-13" {
     description
       "Deprecate cpu-utilization and add cpu-utilization-pct as
       uint32 to support multi-core systems where CPU utilization
